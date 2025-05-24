@@ -1,11 +1,28 @@
 # Tweet Annotation Analysis using Logistic Regression
 
- 
 **Contributors**:
 - Amberly Cavazos  
 - Marco Ortiz 
-- Chinmeri Nwagwu 
-- Shutao Zhang  
+- Chinmeri Nwagwu  
+- Shutao Zhang
+
+---
+
+## 📃 Table of Contents
+
+1. [Project Overview](#-project-overview)
+2. [Files](#-files)
+3. [Methodology](#-methodology)
+    - [Preprocessing](#preprocessing)
+    - [Feature Engineering](#feature-engineering)
+    - [Modeling](#modeling)
+4. [Results](#-results)
+    - [Technology Classification](#technology-classification)
+    - [Political Classification](#political-classification)
+5. [Tools and Libraries](#-tools-and-libraries)
+6. [Output](#-output)
+7. [Future Improvements](#-future-improvements)
+8. [Key Takeaways](#-key-takeaways)
 
 ---
 
