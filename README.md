@@ -1,4 +1,4 @@
-# Tweet Annotation Analysis using Logistic Regression
+# Tweet Annotation Analysis Using Logistic Regression
 
 **Contributors**:
 - Amberly Cavazos  
