@@ -1,4 +1,4 @@
-# Tweet Annotation Analysis Using Logistic Regression | Python
+# Tweet Annotation Analysis Using Logistic Regression | Python (March 2025 - May 2025)
 
 **Contributors**:
 - Amberly Cavazos  
