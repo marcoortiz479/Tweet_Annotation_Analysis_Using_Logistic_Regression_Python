@@ -99,6 +99,9 @@ Three types of features were extracted:
 - `sklearn` (Logistic Regression, metrics, train_test_split)
 - `TextBlob` (sentiment analysis)
 - `TfidfVectorizer` (feature extraction)
+- `GitHub`
+- `Jupyter Notebook`
+- `Jupyter Lab`
 
 ---
 
