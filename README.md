@@ -28,7 +28,7 @@
 
 ## 📝 Project Overview
 
-This project aims to build classification models that analyze tweet content to determine whether it is related to **technology** or **politics**. Using annotated tweets, we applied machine learning techniques in Python to evaluate different types of features: lexical (TF-IDF), sentiment-based (TextBlob), and structural (punctuation, capitalization, etc.).
+Built a logistic regression model using Python with 85%+ accuracy to classify 1,000 tweets as political or tech-focused. Utilized TF-IDF, TextBlob sentiment scoring, and lexical features; documented findings using Jupyter Notebook, Jupyter Lab, and GitHub.
 
 ---
 
